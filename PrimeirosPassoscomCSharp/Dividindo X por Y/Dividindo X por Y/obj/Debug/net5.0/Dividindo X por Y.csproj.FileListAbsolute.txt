@@ -1,0 +1,16 @@
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.exe
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.deps.json
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.runtimeconfig.json
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.runtimeconfig.dev.json
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.dll
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\bin\Debug\net5.0\ref\Dividindo X por Y.dll
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\bin\Debug\net5.0\Dividindo X por Y.pdb
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.csproj.AssemblyReference.cache
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.AssemblyInfoInputs.cache
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.AssemblyInfo.cs
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.csproj.CoreCompileInputs.cache
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.dll
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\ref\Dividindo X por Y.dll
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.pdb
+C:\Users\anaca\source\repos\Dividindo X por Y\Dividindo X por Y\obj\Debug\net5.0\Dividindo X por Y.genruntimeconfig.cache

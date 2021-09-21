@@ -1,0 +1,16 @@
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\bin\Debug\net5.0\ConversaodeTempo.exe
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\bin\Debug\net5.0\ConversaodeTempo.deps.json
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\bin\Debug\net5.0\ConversaodeTempo.runtimeconfig.json
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\bin\Debug\net5.0\ConversaodeTempo.runtimeconfig.dev.json
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\bin\Debug\net5.0\ConversaodeTempo.dll
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\bin\Debug\net5.0\ref\ConversaodeTempo.dll
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\bin\Debug\net5.0\ConversaodeTempo.pdb
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ConversaodeTempo.csproj.AssemblyReference.cache
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ConversaodeTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ConversaodeTempo.AssemblyInfoInputs.cache
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ConversaodeTempo.AssemblyInfo.cs
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ConversaodeTempo.csproj.CoreCompileInputs.cache
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ConversaodeTempo.dll
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ref\ConversaodeTempo.dll
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ConversaodeTempo.pdb
+C:\Users\anaca\source\repos\ConversaodeTempo\ConversaodeTempo\obj\Debug\net5.0\ConversaodeTempo.genruntimeconfig.cache

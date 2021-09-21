@@ -1,0 +1,4 @@
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\Distancia\Distancia\obj\Debug\net5.0\Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\Distancia\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfoInputs.cache
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\Distancia\Distancia\obj\Debug\net5.0\Distancia.AssemblyInfo.cs
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\Distancia\Distancia\obj\Debug\net5.0\Distancia.csproj.CoreCompileInputs.cache

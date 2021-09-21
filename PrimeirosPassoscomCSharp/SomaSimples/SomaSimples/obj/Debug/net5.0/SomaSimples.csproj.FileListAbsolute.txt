@@ -1,0 +1,16 @@
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\bin\Debug\net5.0\SomaSimples.exe
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\bin\Debug\net5.0\SomaSimples.deps.json
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\bin\Debug\net5.0\SomaSimples.runtimeconfig.json
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\bin\Debug\net5.0\SomaSimples.runtimeconfig.dev.json
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\bin\Debug\net5.0\SomaSimples.dll
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\bin\Debug\net5.0\ref\SomaSimples.dll
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\bin\Debug\net5.0\SomaSimples.pdb
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\SomaSimples.csproj.AssemblyReference.cache
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\SomaSimples.AssemblyInfoInputs.cache
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\SomaSimples.AssemblyInfo.cs
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\SomaSimples.dll
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\ref\SomaSimples.dll
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\SomaSimples.pdb
+C:\Users\anaca\OneDrive\Documentos\DesafiosC--DigitalInnovationOne\PrimeirosPassoscomCSharp\SomaSimples\SomaSimples\obj\Debug\net5.0\SomaSimples.genruntimeconfig.cache

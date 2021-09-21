@@ -1,0 +1,16 @@
+C:\Users\anaca\source\repos\Mes\Mes\bin\Debug\net5.0\Mes.exe
+C:\Users\anaca\source\repos\Mes\Mes\bin\Debug\net5.0\Mes.deps.json
+C:\Users\anaca\source\repos\Mes\Mes\bin\Debug\net5.0\Mes.runtimeconfig.json
+C:\Users\anaca\source\repos\Mes\Mes\bin\Debug\net5.0\Mes.runtimeconfig.dev.json
+C:\Users\anaca\source\repos\Mes\Mes\bin\Debug\net5.0\Mes.dll
+C:\Users\anaca\source\repos\Mes\Mes\bin\Debug\net5.0\ref\Mes.dll
+C:\Users\anaca\source\repos\Mes\Mes\bin\Debug\net5.0\Mes.pdb
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\Mes.csproj.AssemblyReference.cache
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\Mes.AssemblyInfoInputs.cache
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\Mes.AssemblyInfo.cs
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\Mes.csproj.CoreCompileInputs.cache
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\Mes.dll
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\ref\Mes.dll
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\Mes.pdb
+C:\Users\anaca\source\repos\Mes\Mes\obj\Debug\net5.0\Mes.genruntimeconfig.cache
